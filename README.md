@@ -1,3 +1,6 @@
+
+
+![Web Developer](https://github.com/ChueTK/ChueTK/blob/main/received_662744610851883.jpeg)
 <h1 align="center">Hi 👋, I'm Chue Theingi Kyaw</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
