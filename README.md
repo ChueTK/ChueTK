@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Python,Php**
 
 - 📫 How to reach me **chuetheingikyaw@gmail.com**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChueTK&show_icons=true&theme=radical)
 
 - ⚡ Fun fact **Welcome !!**
 
